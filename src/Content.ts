@@ -52,9 +52,9 @@ export const content: ContentConfig = {
 
   // Cores da aplicação (Use códigos Hex)
   colors: {
-    primary: '#D96601',      // Cor principal (Botões, destaques, ícones)
+    primary: '#ff7700ff',      // Cor principal (Botões, destaques, ícones)
     primaryDark: '#ffffffff',  // Cor principal escura (Hover)
-    primaryHighlight: '#D96601', // Cor para textos destacados e ícones soltos (Pode ser igual a primary ou ajustada)
+    primaryHighlight: '#ff7700ff', // Cor para textos destacados e ícones soltos (Pode ser igual a primary ou ajustada)
     textOnPrimary: '#000000ff',    // Cor do texto sobre fundos primários (Preto para contraste com amarelo)
     secondary: '#18181B',    // Cor secundária (Fundos escuros)
     background: '#09090b',   // Cor de fundo geral da página
@@ -77,7 +77,7 @@ export const content: ContentConfig = {
     description: "Treinos inovadores, profissionais qualificados e um ambiente acolhedor",
     domain: "https://movimentodocorpo.netlify.app", // URL do site (sem barra no final)
     path: "/",
-    themeColor: "#D96601", // Cor do tema (barra de endereço mobile)
+    themeColor: "#ff7700ff", // Cor do tema (barra de endereço mobile)
     keywords: "academia, musculação, fitness, saúde, treino, jiu jitsu, muay thai, fit dance, lutas, funcional, campinas, academia perto de mim, pilates, kangoo, spinning, ginástica, boxe chinês",
     og: {
       title: "Movimento Do Corpo Academia - Começe 2026 Em Forma: Garanta Sua Matrícula Com Desconto",
